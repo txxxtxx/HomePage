@@ -14,6 +14,7 @@
 * [Android 系统自身UI特性及实践](https://github.com/D-clock/AndroidSystemUiTraining)
 * [Android开发的一些小技巧](https://github.com/jiang111/awesome-android-tips)
 * [Android开发日常积累](https://github.com/LomoLin/CoreLink)
+* [安卓开发中遇到的重难点解析，也包括平常的读书笔记和知识点整理](https://github.com/ZhaoKaiQiang/AndroidDifficultAnalysis)
 * [Android SDK 源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
 * [Android-Dev-Favorites，别人整理的关于Android开发的东西](https://github.com/ruijun/Android-Dev-Favorites)
 * [ANDROID STUDIO系列教程一--下载与安装，共6个部分](http://stormzhang.com/devtools/2014/11/25/android-studio-tutorial1/)
