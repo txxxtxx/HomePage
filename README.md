@@ -11,6 +11,7 @@
 * [Android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
 * [Android最佳实践](https://github.com/futurice/android-best-practices)
 * [Android View的绘制机制，事件传递机制和属性动画，对开发自定义View非常实用](https://github.com/xinghongfei/awesome-view)
+* [Android 系统自身UI特性及实践](https://github.com/D-clock/AndroidSystemUiTraining)
 * [Android开发的一些小技巧](https://github.com/jiang111/awesome-android-tips)
 * [Android开发日常积累](https://github.com/LomoLin/CoreLink)
 * [Android SDK 源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
