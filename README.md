@@ -17,6 +17,7 @@
 * [安卓开发中遇到的重难点解析，也包括平常的读书笔记和知识点整理](https://github.com/ZhaoKaiQiang/AndroidDifficultAnalysis)
 * [Android SDK 源码解析](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
 * [Android-Dev-Favorites，别人整理的关于Android开发的东西](https://github.com/ruijun/Android-Dev-Favorites)
+* [一个定期翻译、发布国内外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目](https://github.com/txxxtxx/android-tech-frontier)
 * [ANDROID STUDIO系列教程一--下载与安装，共6个部分](http://stormzhang.com/devtools/2014/11/25/android-studio-tutorial1/)
 * [国内一线互联网公司内部面试题库](https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md)
 * [用Scala语言编写Android程序](https://github.com/pocorall/scaloid)
