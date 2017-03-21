@@ -7,6 +7,7 @@
 
 
 ### 一些学习资料
+* [开发相关的书籍](https://github.com/vhf/free-programming-books)
 * [Java资源大全中文版](https://github.com/jobbole/awesome-java-cn)
 * [Android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/)
 * [Android最佳实践](https://github.com/futurice/android-best-practices)
